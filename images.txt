@@ -1,1 +1,1 @@
-kestra/kestra:latest-full
+kestra/kestra:latest
