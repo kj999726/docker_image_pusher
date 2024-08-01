@@ -1,1 +1,1 @@
-kestra/kestra:latest
+dremio/dremio-oss
