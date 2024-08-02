@@ -1,2 +1,2 @@
-typebot-builder:LATEST
-typebot-viewer:LATEST
+baptistearno/typebot-builder:latest
+baptistearno/typebot-viewer:latest
