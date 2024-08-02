@@ -1,1 +1,2 @@
-dremio/dremio-oss
+typebot-builder:LATEST
+typebot-viewer:LATEST
