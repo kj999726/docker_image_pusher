@@ -1,2 +1,1 @@
-baptistearno/typebot-builder:latest
-baptistearno/typebot-viewer:latest
+postgres:16
