@@ -1,1 +1,1 @@
-bytemark/smtp
+dremio/dremio-oss:24.3.0
