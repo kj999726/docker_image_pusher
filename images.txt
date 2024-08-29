@@ -1,1 +1,1 @@
-dremio/dremio-oss:24.3.0
+kestra/kestra:latest
