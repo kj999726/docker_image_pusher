@@ -1,1 +1,1 @@
-kestra/kestra:latest
+apache/superset:1ccc147-dev
