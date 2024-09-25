@@ -1,1 +1,1 @@
-apache/superset:1ccc147-dev
+dremio/dremio-oss:latest
