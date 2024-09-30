@@ -1,1 +1,1 @@
-dremio/dremio-oss:latest
+kestra/kestra:latest-full@sha256:6a73e50ab06db66fc10cb4886acae484c7bba21e374f2516a202f4f24a5364d8
