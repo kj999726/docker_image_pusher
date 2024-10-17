@@ -1,1 +1,1 @@
-kestra/kestra:latest-full@sha256:6bd898a490bf2ff26c86b6835bcb017b544defa48d1ed2bf3718e0a5f3353b18
+kestra/kestra:latest-full
