@@ -1,1 +1,1 @@
-dremio/dremio-ee-jdk21:25.2.0
+dremio/dremio-ee-jdk17:25.2.0
