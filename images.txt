@@ -1,1 +1,1 @@
-dremio/dremio-ee-jdk17:24.3.0
+dremio/dremio-ee-jdk17:24.3.0@sha256:8d9683e47b2c557c844d3da07708d4148b67a59557d4b037428197729af6f728
