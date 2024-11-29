@@ -1,1 +1,2 @@
-dremio/dremio-ee-jdk21:25.2.0
+kestra/kestra:latest
+--platform=linux/amd64 linux/arm64
