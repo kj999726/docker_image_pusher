@@ -1,2 +1,2 @@
 kestra/kestra:latest
---platform=linux/amd64
+--platform=linux/arm64
