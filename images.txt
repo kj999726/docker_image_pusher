@@ -1,2 +1,1 @@
-kestra/kestra:latest
---platform=linux/arm64
+prestodb/presto:latest
