@@ -1,1 +1,2 @@
-prestodb/presto:latest
+kestra/kestra:v0.19.3
+--platform=linux/amd64 linux/arm64
