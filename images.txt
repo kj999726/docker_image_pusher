@@ -1,2 +1,2 @@
-rapidfort/microsoft-sql-server-2019-ib:latest
+kestra/kestra:v0.21.1
 --platform=linux/amd64
