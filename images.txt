@@ -1,1 +1,1 @@
-monokal/tinyproxy:latest
+kestra/kestra:latest
