@@ -1,1 +1,1 @@
-kestra/kestra:v0.24.0
+xuxuclassmate/dameng:latest
